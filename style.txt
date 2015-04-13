@@ -1,4 +1,11 @@
-font-family: 'Gentium Book Basic', serif;
+Serif Font: Gentium Book Basic
+Sans Serif Font: Open Sans
 
-Dark Blue: #04345B
-Light Blue: #719ebc
+Colors:
+Header Blue: #719ebd (also color for most secondary text hearders)
+Issue Bar Dark Blue: #04345c (also color for most main text headers)
+Side Color Issue Bar: #577790
+Navigation Bar: #999999
+Side color navigation bar: #cccccc
+Side color Article area: #e6e6e6
+Featured Article Background: #d3e1ea
