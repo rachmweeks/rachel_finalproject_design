@@ -1,0 +1,4 @@
+font-family: 'Gentium Book Basic', serif;
+
+Dark Blue: #04345B
+Light Blue: #719ebc
